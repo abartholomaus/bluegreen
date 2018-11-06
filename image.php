@@ -1,4 +1,6 @@
+
 <?php
+//FOOBAR
 // Create a 55x30 image
 $im = imagecreatetruecolor(200, 200);
 $white = imagecolorallocate($im, 255, 255, 255);
